@@ -19,5 +19,9 @@ public class MainClass {
         System.out.println("Филя сыт? " + cat1.isSatiety());
         System.out.println("Мурка сыта? " + cat2.isSatiety());
         System.out.println("Бааарсик накушался? " + cat3.isSatiety());
+        
+        plate1.info();
+        plate2.info();
+        plate3.info();
     }
 }
